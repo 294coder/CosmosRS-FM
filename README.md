@@ -27,9 +27,8 @@ Code, pretrained weights and instructions for reproducing the main experiments a
 
 - [ ] Model definitions for CosmosRS-Semantic and CosmosRS-Compress
 - [ ] Pretrained weights
-- [ ] Training and evaluation scripts
-- [ ] Downstream task heads and benchmark configurations
+- [ ] Pretraining scripts
 
 ## Contact
 
-For questions, please contact Liang-Jian Deng (liangjian.deng@uestc.edu.cn).
+For questions, please contact Zi-Han Cao (iamzihan666@gmail.com).
